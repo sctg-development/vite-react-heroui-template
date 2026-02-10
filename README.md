@@ -1,3 +1,6 @@
+![](https://tokeisrv.sctg.eu.org/b1/github.com/sctg-development/vite-react-heroui-template?TypeScript,TSX&category=code)
+![](https://tokeisrv.sctg.eu.org/b1/github.com/sctg-development/vite-react-heroui-template?TypeScript,TSX&category=comments)  
+
 # Vite & HeroUI Template
 
 This is a template for creating applications using Vite 6 and HeroUI (v2).
